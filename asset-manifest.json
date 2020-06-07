@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/studyOfReactHooksPersistance/static/css/main.6b452f9e.chunk.css",
+    "main.js": "/studyOfReactHooksPersistance/static/js/main.cf257bb0.chunk.js",
+    "main.js.map": "/studyOfReactHooksPersistance/static/js/main.cf257bb0.chunk.js.map",
+    "runtime-main.js": "/studyOfReactHooksPersistance/static/js/runtime-main.3c4f422d.js",
+    "runtime-main.js.map": "/studyOfReactHooksPersistance/static/js/runtime-main.3c4f422d.js.map",
+    "static/js/2.cb89eccc.chunk.js": "/studyOfReactHooksPersistance/static/js/2.cb89eccc.chunk.js",
+    "static/js/2.cb89eccc.chunk.js.map": "/studyOfReactHooksPersistance/static/js/2.cb89eccc.chunk.js.map",
+    "index.html": "/studyOfReactHooksPersistance/index.html",
+    "precache-manifest.30ac317953f6e7625642c6796f71a94f.js": "/studyOfReactHooksPersistance/precache-manifest.30ac317953f6e7625642c6796f71a94f.js",
+    "service-worker.js": "/studyOfReactHooksPersistance/service-worker.js",
+    "static/css/main.6b452f9e.chunk.css.map": "/studyOfReactHooksPersistance/static/css/main.6b452f9e.chunk.css.map",
+    "static/js/2.cb89eccc.chunk.js.LICENSE.txt": "/studyOfReactHooksPersistance/static/js/2.cb89eccc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c4f422d.js",
+    "static/js/2.cb89eccc.chunk.js",
+    "static/css/main.6b452f9e.chunk.css",
+    "static/js/main.cf257bb0.chunk.js"
+  ]
+}
